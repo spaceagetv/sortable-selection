@@ -1,0 +1,23 @@
+{
+  "name": "sortable-selection",
+  "version": "1.0.0",
+  "description": "Integrating SortableJS with Selection/Viselect",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaceagetv/sortable-selection.git"
+  },
+  "author": "Jeff Robbins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spaceagetv/sortable-selection/issues"
+  },
+  "homepage": "https://github.com/spaceagetv/sortable-selection#readme",
+  "dependencies": {
+    "@viselect/vanilla": "^3.0.0-beta.7",
+    "sortablejs": "^1.14.0"
+  }
+}
